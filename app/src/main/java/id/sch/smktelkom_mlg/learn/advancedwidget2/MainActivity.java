@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity
     @OnClick(R.id.buttonProses)
     public void doProses()
     {
-        tvHasil.setText("Nama ANda:"+etNama.getText());
+        tvHasil.setText("Nama Anda:"+etNama.getText());
     }
 }
